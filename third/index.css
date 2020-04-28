@@ -1,0 +1,54 @@
+  
+.sect {
+    width: 100vw;
+}
+
+#sect-gray {
+    height: 11vh;
+    background-color: #d8d8d8;
+    box-sizing: border-box;
+    padding-top: 12px;
+    padding-left: 24px;
+}
+
+#bluebox {
+    width: 90px;
+    height: 80px;
+    background-color: #4a90e2;
+}
+
+#sect-white {
+    height: 33vh;
+    padding-top: 100px;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+p {
+    width: 640px;
+    margin: auto;
+    color: #4a4a4a;
+    font-size: 18px;
+    font-family: Helvetica;
+    line-height: 1.25em;
+}
+
+.uni-size {
+    height: 14vh;
+}
+
+#sect-skyblue {
+    background-color: #4a90e2;
+}
+
+#sect-seagreen {
+    background-color: #50e3c2;
+}
+
+#sect-peagreen {
+    background-color: #b8e986;
+}
+
+#sect-mustardyellow {
+    background-color: #f8e71c;
+}
